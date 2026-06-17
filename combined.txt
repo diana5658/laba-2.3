@@ -1,0 +1,8 @@
+--- Содержимое file1.txt ---
+Hello from file 1
+
+--- Содержимое file2.txt ---
+This is file 2 content
+
+--- Содержимое file3.txt ---
+Last file here
